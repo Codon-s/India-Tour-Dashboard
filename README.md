@@ -10,7 +10,7 @@ Welcome to the India Travel Itinerary Planner project repository! This project a
 
 ## Usage
 
-You can access, view, edit this project using Jupter Notebook. This repository contains only the Jupter Notebook of the code, so must access it using Jupter Lab, and you must have folium installed in your system.
+You can access, view, edit this project using Python. This repository contains only the Jupter Notebook of the code, so must access it using Jupter Lab, and you must have folium installed in your system.
 
 ## Description
 
