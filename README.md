@@ -14,7 +14,7 @@ You can access, view, edit this project using Python. This repository contains o
 
 ## Description
 
-This project is the part of the Training Program and is researched and developed by the trainees under the name of Codons Technologies Ltd. Hence all rights are reserved by the Company.
+This project is the part of the Training Program and is researched and developed by the trainees at Codons Technologies.
 
 ## Contributing
 
