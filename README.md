@@ -4,9 +4,9 @@ Welcome to the India Travel Itinerary Planner project repository! This project a
 
 ## Getting Started
 
-Plan Selection: Explore the details of each plan to find the one that aligns with your travel preferences and budget constraints.
-Detailed Itineraries: Review the comprehensive itineraries for each plan to get a glimpse of the exciting destinations and experiences included.
-Preparation: Ensure you have all necessary travel documents, make accommodation reservations, and plan transportation arrangements.
+* Plan Selection: Explore the details of each plan to find the one that aligns with your travel preferences and budget constraints.
+* Detailed Itineraries: Review the comprehensive itineraries for each plan to get a glimpse of the exciting destinations and experiences included.
+* Preparation: Ensure you have all necessary travel documents, make accommodation reservations, and plan transportation arrangements.
 
 ## Features
 
@@ -16,10 +16,10 @@ Preparation: Ensure you have all necessary travel documents, make accommodation 
 
 ## Plan Breakdown
 
-*Gold Plan: Ideal for budget-conscious travelers, this plan provides a snapshot of India's beauty, covering essential destinations.
-*Silver Plan: Enhance your journey with this plan, offering additional attractions and a deeper immersion into local culture.
-*Platinum Plan: For a more comprehensive experience, the Platinum Plan combines premium accommodations with curated and exclusive experiences.
-*Luxury Plan: Indulge in the epitome of luxury travel, with exclusive accommodations and personalized services to make your journey extraordinary.
+* Gold Plan: Ideal for budget-conscious travelers, this plan provides a snapshot of India's beauty, covering essential destinations.
+* Silver Plan: Enhance your journey with this plan, offering additional attractions and a deeper immersion into local culture.
+* Platinum Plan: For a more comprehensive experience, the Platinum Plan combines premium accommodations with curated and exclusive experiences.
+* Luxury Plan: Indulge in the epitome of luxury travel, with exclusive accommodations and personalized services to make your journey extraordinary.
 
 ## Usage
 
